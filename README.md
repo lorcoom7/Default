@@ -13,7 +13,7 @@
 
 <h2>👨‍💻Certifications</h2>
  
- - [Google Foundations of Cybersecurity](https://coursera.org/share/65d0a2d4d790ab54becd7f17b041d947)
+ - [Google Foundations of Cybersecurity](https://www.coursera.org/account/accomplishments/certificate/CTY74S8FDPJ5)
  
 <h2>📺 Popular YouTube Videos</h2>
 
