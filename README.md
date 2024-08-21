@@ -8,8 +8,8 @@
 
 <h2>📫Education</h2>
  
-  - Master of Science in Information Security and Assurance - [Strayer University ](https://github.com/joshmadakor1/Algorithms-Practice)
-  - Bachelor of Science in Computer Science - [St. Johns University ](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Master of Science in Information Security and Assurance](https://github.com/lorcoom7) - [Strayer University ](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Bachelor of Science in Computer Science](https://github.com/lorcoom7) - [St. Johns University ](https://github.com/joshmadakor1/Algorithms-Practice)
 
 <h2>👨‍💻Certifications</h2>
  
