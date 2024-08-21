@@ -8,8 +8,8 @@
 
 <h2>📫Education</h2>
  
-  - [Master of Science in Information Security and Assurance](https://github.com/lorcoom7/MSISA/blob/main/Masters%20Degree.pdf) - [Strayer University ](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [Bachelor of Science in Computer Science](https://github.com/lorcoom7) - [St. Johns University ](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Master of Science in Information Security and Assurance](https://github.com/lorcoom7/MSISA/blob/main/Masters%20Degree.pdf) - [Strayer University ](https://www.strayer.edu/)
+  - [Bachelor of Science in Computer Science](https://github.com/lorcoom7/Computer-Science/blob/main/Bachelor%20Degree_1.pdf) - [St. Johns University ](https://www.stjohns.edu/my-st-johns)
 
 <h2>👨‍💻Certifications</h2>
  
