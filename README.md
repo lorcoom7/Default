@@ -1,4 +1,4 @@
-<h1>Hi, I'm Sheldon! <br/><a href="https://github.com/lorcoom7">Cybersecurity Enthusiast</a>, <a href="https://www.linkedin.com/in/sheldon-brown-cybersecurity/">IT&S Technician</a>, <a href="https://www.linkedin.com/in/sheldon-brown-cybersecurity/">Infrastructure Services and Management Specialist</a></h1>
+<h1>Hi, I'm Sheldon! <br/><a href="https://github.com/lorcoom7">Cybersecurity Enthusiast</a>| <a href="https://www.linkedin.com/in/sheldon-brown-cybersecurity/">IT&S Technician</a>| <a href="https://www.linkedin.com/in/sheldon-brown-cybersecurity/">Infrastructure Services and Management Specialist</a></h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
