@@ -9,7 +9,7 @@
 <h2>🎓Education</h2>
  
   - [Master of Science in Information Security and Assurance](https://github.com/lorcoom7/MSISA/blob/main/Masters%20Degree.pdf) - Strayer University 
-  - [Bachelor of Science in Computer Science](https://github.com/lorcoom7/Computer-Science/blob/main/Bachelor%20Degree_1.pdf) -St. Johns University 
+  - [Bachelor of Science in Computer Science](https://github.com/lorcoom7/Computer-Science/blob/main/Bachelor%20Degree_1.pdf) - St. Johns University 
 
 <h2>👨‍💻Certifications</h2>
  
