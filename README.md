@@ -11,7 +11,7 @@
   - [Master of Science in Information Security and Assurance](https://github.com/lorcoom7/MSISA/blob/main/Masters%20Degree.pdf) - Strayer University 
   - [Bachelor of Science in Computer Science](https://github.com/lorcoom7/Computer-Science/blob/main/Bachelor%20Degree_1.pdf) - St. Johns University 
 
-<h2>👨‍💻Certifications</h2>
+<h2>📜Certifications</h2>
  
  - [Google Foundations of Cybersecurity](https://www.coursera.org/account/accomplishments/certificate/CTY74S8FDPJ5)
  
