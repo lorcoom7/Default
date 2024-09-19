@@ -21,7 +21,7 @@
 - [A Day in the Life of a Cybersecurity Anayst](https://youtube.com/shorts/j4ouExqE0PU?si=gKpxvygaCfTmkM0C)
 - [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
 - [Ransomware Explained](https://youtube.com/shorts/1vh1m4qTTMw?si=xg03cpJ8NP1o5Xha)
-- [Zero Trust Architecture](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+- [Zero Trust Architecture](https://youtu.be/ib6i68OaCMg?si=tRSj7AltWKlljtCx)
 
 <h2> 🤳 Connect with me:</h2>
 
