@@ -32,7 +32,7 @@
 [<img align="left" alt="sheldonthecyberguy | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [twitter]: https://twitter.com/
-[youtube]: https://youtube.com/shorts/L9bXoD6XOK0?si=oHJ0RHZMt-8hN0Nd
+[youtube]: https://www.youtube.com/watch?v=AbGmlCRLBbI
 [instagram]: https://www.instagram.com/
 [linkedin]: https://www.linkedin.com/in/sheldon-brown-cybersecurity
 
