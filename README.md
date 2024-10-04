@@ -1,13 +1,14 @@
-<h1>Hi, I'm Sheldon! <br/><a href="https://github.com/lorcoom7">Cybersecurity Enthusiast</a> | <a href="https://www.linkedin.com/in/sheldon-brown-cybersecurity/">Infrastructure Services and Management Specialist</a></h1>
-
+<h1>Hi, I'm Sheldon! <br/><a href="https://github.com/lorcoom7">||Cybersecurity Enthusiast</a> <a href="https://www.linkedin.com/in/sheldon-brown-cybersecurity/">||Infrastructure Services and Management Specialist||</a></h1>
+-An IT Professional with over 12 years of experience in the industry, holding a Master’s degree in Information Security and Assurance (MSISA). I have a passion for technology and Cybersecurity.I am currently working on NSA Codebreaker challenge,HallowHack and Hack The Box challenges, and contributing to open-source security tools.
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Kali Linux Home Labs </b>
 - <b>Active Directory Home Labs </b>
 - <b>OPNSense Firewall </b>
+-- <h2>[2024 MITRE eCTF](https://sb.ectf.mitre.org):</h2>
 - <h2>NSA Codebreaker Challenge:</h2>
 - || [2023] || [2024] || 
-- <h2>HACKTHEBOX</h2>:
+- <h2>HackTheBox-Writeups</h2>
 - || [Tier 0] || [Tier 1] || [Tier 2] ||
 -
 <h2>🎓Education</h2>
