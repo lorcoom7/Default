@@ -5,8 +5,9 @@
 - <b>Kali Linux Home Labs </b>
 - <b>Active Directory Home Labs </b>
 - <b>OPNSense Firewall </b>
-- <b>NSA Codebreaker Challenge 2023 </b>
-- <b>NSA Codebreaker Challenge 2024 (In progress)</b>
+- <b>NSA Codebreaker Challenge: 2023||2024 </b>
+- <b>Hack The Box: Tier 0 || Tier 1 || Tier 2 ||</b>
+
 
 <h2>🎓Education</h2>
  
