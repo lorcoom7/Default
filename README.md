@@ -6,7 +6,7 @@
 - <b>Active Directory Home Labs </b>
 - <b>OPNSense Firewall </b>
 - <b>NSA Codebreaker Challenge 2023 </b>
-- <b>NSA Codebreaker Challenge 2024 (pending)</b>
+- <b>NSA Codebreaker Challenge 2024 (In progress)</b>
 
 <h2>🎓Education</h2>
  
