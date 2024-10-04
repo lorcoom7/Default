@@ -17,6 +17,7 @@
  
  - [Google Foundations of Cybersecurity](https://www.coursera.org/account/accomplishments/certificate/CTY74S8FDPJ5)
  - [Play it Safe- Manage Security Risks](https://www.coursera.org/account/accomplishments/verify/XG0LAN5NTOJB)
+ - [Connect and Protect: Networks and Network Security](https://coursera.org/share/d20125df02038f1a2d0211e9d6e74d80)
 <h2>📺 Popular YouTube Videos</h2>
 
 - [How to get into Cybersecurity Starting From Zero](https://youtu.be/OeNk_gNPOmA?si=beZsQcoKc56YstMg)
