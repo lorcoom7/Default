@@ -5,10 +5,11 @@
 - <b>Kali Linux Home Labs </b>
 - <b>Active Directory Home Labs </b>
 - <b>OPNSense Firewall </b>
-- <b>NSA Codebreaker Challenge:|| 2023 || 2024 || </b>
-- <b>HACKTHEBOX:|| Tier 0 || Tier 1 || Tier 2 ||</b>
-
-
+- <h2>NSA Codebreaker Challenge:</h2>
+- || [2023] || [2024] || 
+- <h2>HACKTHEBOX</h2>:
+- || [Tier 0] || [Tier 1] || [Tier 2] ||
+-
 <h2>🎓Education</h2>
  
   - [Master of Science in Information Security and Assurance](https://github.com/lorcoom7/MSISA/blob/main/Masters%20Degree.pdf) - Strayer University 
