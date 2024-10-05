@@ -1,5 +1,9 @@
-<h1>Hi, I'm Sheldon! <br/><a href="https://github.com/lorcoom7">||Cybersecurity Enthusiast</a> <a href="https://www.linkedin.com/in/sheldon-brown-cybersecurity/">||Infrastructure Services and Management Specialist||</a></h1>
--An IT Professional with over 12 years of experience in the industry, holding a Master’s degree in Information Security and Assurance (MSISA). I have a passion for technology and Cybersecurity.I am currently working on NSA Codebreaker challenge,HallowHack and Hack The Box challenges, and contributing to open-source security tools.
+<h1>Hi there, I'm Sheldon!</h1> <b>||Cybersecurity Enthusiast || Penetration Tester || Infrastructure Services and Management Specialist||<br/>
+
+<b> 🔐 Interested in Network Security, Exploitation, and Secure System Design </b>
+
+An IT Professional with over 12 years of experience in the industry, holding a Master’s degree in Information Security and Assurance (MSISA). I have a passion for technology and Cybersecurity.I am currently working on NSA Codebreaker challenge,HallowHack and Hack The Box challenges, and contributing to open-source security tools.
+
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Kali Linux Home Labs </b>
