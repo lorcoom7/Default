@@ -1,8 +1,9 @@
 <h1>Hi there, I'm Sheldon!</h1> <b>||Cybersecurity Enthusiast || Penetration Tester || Infrastructure Services and Management Specialist||<br/>
 
-<b> 🔐 Interested in Network Security, Exploitation, and Secure System Design </b>
 
-An IT Professional with over 12 years of experience in the industry, holding a Master’s degree in Information Security and Assurance (MSISA). I have a passion for technology and Cybersecurity.I am currently working on NSA Codebreaker challenge,HallowHack and Hack The Box challenges, and contributing to open-source security tools.
+    🔐 Interested in Network Security, Exploitation, and Secure System Design 
+
+An IT Professional with over 12 years of experience in the industry, holding a Master’s degree in Information Security and Assurance (MSISA). I have a passion for technology and Cybersecurity.I am currently working on NSA Codebreaker and Hack The Box challenges.
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
