@@ -1,7 +1,7 @@
 # Hi there, I'm Sheldon!
 **Cybersecurity Enthusiast | Penetration Tester | Infrastructure Services and Management Specialist**
 
-🔐 Interested in Network Security, Exploitation, and Secure System Design
+🔐 Interested in Network Security, Pentesting,Cloud computing, and Secure System Design
 
 ---
 
