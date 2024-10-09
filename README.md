@@ -17,6 +17,7 @@ I am an IT Professional with over 12 years of experience in the industry, holdin
 - **[2024 MITRE eCTF](https://sb.ectf.mitre.org)**: Participating in the MITRE Embedded Capture The Flag competition.
 - **NSA Codebreaker Challenge**: Engaging in NSA-sponsored challenges to solve real-world cybersecurity problems.
 - **HackTheBox Writeups**: Documenting solutions for various HackTheBox challenges. Levels: [Tier 0], [Tier 1], [Tier 2].
+- **CTFs Writeups**: Documenting solutions for various Capture The Flag challenges. Check out my [CTF writeups](https://github.com/lorcoom7/CTF-Writeups).
 
 ---
 
