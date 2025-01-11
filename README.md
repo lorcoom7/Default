@@ -6,7 +6,7 @@
 ---
 
 ## Professional Summary
-I am an IT Professional with over 12 years of experience in the industry, holding a Master’s degree in Information Security and Assurance (MSISA). I am passionate about technology and cybersecurity, actively working on NSA Codebreaker and Hack The Box challenges. My expertise spans network security, exploitation, and secure system design.
+I am an IT Professional with over 13 years of experience in the industry, holding a Master’s degree in Information Security and Assurance (MSISA). I am passionate about technology and cybersecurity, actively working on NSA Codebreaker and Hack The Box challenges. My expertise spans network security, exploitation, and secure system design.
 
 ---
 
