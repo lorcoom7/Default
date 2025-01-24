@@ -32,7 +32,7 @@ I am an IT Professional with over 13 years of experience in the industry, holdin
 - [Play it Safe: Manage Security Risks](https://www.coursera.org/account/accomplishments/verify/XG0LAN5NTOJB)
 - [Connect and Protect: Networks and Network Security](https://coursera.org/share/d20125df02038f1a2d0211e9d6e74d80)
 - [Tools of the Trade: Linux and SQL](https://coursera.org/verify/YEH68N8HDKEI)
----
+- [Assets, Threats, and Vulnerabilities](https://www.coursera.org/account/accomplishments/verify/33PUVFD8JLAZ)
 
 ## 📺 Popular YouTube Videos
 - [How to get into Cybersecurity Starting From Zero](https://youtu.be/OeNk_gNPOmA?si=beZsQcoKc56YstMg)
