@@ -34,7 +34,7 @@ I am an IT Professional with over 13 years of experience in the industry, holdin
 - [Tools of the Trade: Linux and SQL](https://coursera.org/verify/YEH68N8HDKEI)
 - [Assets, Threats, and Vulnerabilities](https://www.coursera.org/account/accomplishments/verify/33PUVFD8JLAZ)
 - [Sound the Alarm: Detection and Response](https://www.coursera.org/account/accomplishments/verify/XGMJTWMCR8AK)
-
+- [Automate Cybersecurity Tasks with Python](https://www.coursera.org/account/accomplishments/verify/ESC8KHPJEK02)
   
 ## 📺 Popular YouTube Videos
 - [How to get into Cybersecurity Starting From Zero](https://youtu.be/OeNk_gNPOmA?si=beZsQcoKc56YstMg)
