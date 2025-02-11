@@ -35,6 +35,7 @@ I am an IT Professional with over 13 years of experience in the industry, holdin
 - [Assets, Threats, and Vulnerabilities](https://www.coursera.org/account/accomplishments/verify/33PUVFD8JLAZ)
 - [Sound the Alarm: Detection and Response](https://www.coursera.org/account/accomplishments/verify/XGMJTWMCR8AK)
 - [Automate Cybersecurity Tasks with Python](https://www.coursera.org/account/accomplishments/verify/ESC8KHPJEK02)
+- [Put it to Work: Prepare for Cybersecurity Jobs](https://www.coursera.org/account/accomplishments/verify/5P9HFXQBMVZO)
   
 ## 📺 Popular YouTube Videos
 - [How to get into Cybersecurity Starting From Zero](https://youtu.be/OeNk_gNPOmA?si=beZsQcoKc56YstMg)
