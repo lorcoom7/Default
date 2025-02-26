@@ -28,7 +28,7 @@ I am an IT Professional with over 13 years of experience in the industry, holdin
 ---
 
 ## 📜 Certification/Certificates
-- [Comptia Security+ 701]()
+- [Comptia Security+ 701](https://wsr.pearsonvue.com/testtaker/authenticate/ScoreReport/COMPTIA?conversationId=1083421)
 - [Google Foundations of Cybersecurity](https://coursera.org/share/65d0a2d4d790ab54becd7f17b041d947)
 - [Play it Safe: Manage Security Risks](https://www.coursera.org/account/accomplishments/verify/XG0LAN5NTOJB)
 - [Connect and Protect: Networks and Network Security](https://coursera.org/share/d20125df02038f1a2d0211e9d6e74d80)
