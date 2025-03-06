@@ -38,7 +38,7 @@ I am an IT Professional with over 13 years of experience in the industry, holdin
 - [Automate Cybersecurity Tasks with Python](https://www.coursera.org/account/accomplishments/verify/ESC8KHPJEK02)
 - [Put it to Work: Prepare for Cybersecurity Jobs](https://www.coursera.org/account/accomplishments/verify/5P9HFXQBMVZO)
   
-## 📺 Popular YouTube Videos
+## 📺 Popular YouTube Videos (Coming soon)
 - [How to get into Cybersecurity Starting From Zero]()
 - [A Day in the Life of a Cybersecurity Analyst]()
 - [Ransomware Explained]()
