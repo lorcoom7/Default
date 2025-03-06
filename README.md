@@ -39,10 +39,10 @@ I am an IT Professional with over 13 years of experience in the industry, holdin
 - [Put it to Work: Prepare for Cybersecurity Jobs](https://www.coursera.org/account/accomplishments/verify/5P9HFXQBMVZO)
   
 ## 📺 Popular YouTube Videos
-- [How to get into Cybersecurity Starting From Zero](https://youtu.be/OeNk_gNPOmA?si=beZsQcoKc56YstMg)
-- [A Day in the Life of a Cybersecurity Analyst](https://youtube.com/shorts/j4ouExqE0PU?si=gKpxvygaCfTmkM0C)
-- [Ransomware Explained](https://youtube.com/shorts/1vh1m4qTTMw?si=xg03cpJ8NP1o5Xha)
-- [Zero Trust Architecture](https://youtu.be/ib6i68OaCMg?si=tRSj7AltWKlljtCx)
+- [How to get into Cybersecurity Starting From Zero]()
+- [A Day in the Life of a Cybersecurity Analyst]()
+- [Ransomware Explained]()
+- [Zero Trust Architecture]()
 
 ---
 
