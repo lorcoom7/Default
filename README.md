@@ -47,7 +47,7 @@ I am an IT Professional with over 13 years of experience in the industry, holdin
 ---
 
 ## 🤳 Connect with me:
-[![YouTube](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg)](https://www.youtube.com/watch?v=AbGmlCRLBbI)
+[![YouTube](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg)](https://www.youtube.com/)
 [![Twitter](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg)](https://twitter.com/)
 [![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg)](https://www.linkedin.com/in/sheldon-brown-cybersecurity)
 [![Instagram](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg)](https://www.instagram.com/)
