@@ -32,7 +32,7 @@ I hold a **Master’s degree in Information Security & Assurance (MSISA)** and h
 
 ---
 
-## **🎓 Education & Certifications**  
+## **🎓 Education**  
 🎓 **[Master of Science in Information Security & Assurance](https://github.com/lorcoom7/MSISA/blob/main/Masters%20Degree.pdf)** – Strayer University  
 🎓 **[Bachelor of Science in Computer Science](https://github.com/lorcoom7/Computer-Science/blob/main/Bachelor%20Degree_1.pdf)** – St. Johns University  
 
@@ -40,12 +40,12 @@ I hold a **Master’s degree in Information Security & Assurance (MSISA)** and h
 
 ## 📜 Certifications & Achievements
 
-- <a href="https://www.credly.com/badges/8461c1d0-7db4-4047-bc36-e3ecc4bee230/linked_in_profile">
+ <a href="https://www.credly.com/badges/8461c1d0-7db4-4047-bc36-e3ecc4bee230/linked_in_profile">
     <img src="https://images.credly.com/size/340x340/images/74790a75-8451-400a-8536-92d792c5184a/CompTIA_Security_2Bce.png" 
          alt="CompTIA Security+ Logo" 
          width="30px" 
          style="vertical-align: middle;">
-    <strong>CompTIA Security+ ce Certification</strong>
+    <strong>CompTIA Security+ Certified</strong>
   </a>
 
 <details>
