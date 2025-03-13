@@ -1,14 +1,14 @@
 # 👋 Hi there, I'm Sheldon!  
 ### **Cybersecurity Enthusiast | Penetration Tester | Infrastructure Security Specialist**  
 
-🔐 Passionate about **Penetration Testing, Security Operations Center (SOC), Network Security, and Security Auditing**.  
+🔐 Interested in **Penetration Testing, Security Operations Center (SOC), Network Security, and Security Auditing**.  
 🚀 Actively solving **NSA Codebreaker & Hack The Box** challenges to sharpen my cybersecurity expertise.  
 
 ---
 
 ## **🔹 Professional Summary**  
-I am a **seasoned IT professional** with **13+ years of experience** in **Cybersecurity, Infrastructure Security, and Network Administration**.  
-I hold a **Master’s degree in Information Security & Assurance (MSISA)** and have a strong background in **secure system design, exploitation techniques, and threat mitigation strategies**.  
+I am a **seasoned IT professional** with **13+ years of experience** in the industry.  
+I hold a **Master’s degree in Information Security & Assurance (MSISA)** and have a strong background in **exploitation techniques, and threat mitigation strategies**.  
 
 💡 **Key Strengths:**  
 ✅ **Penetration Testing** – Offensive security & vulnerability assessments  
