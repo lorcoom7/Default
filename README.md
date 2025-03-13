@@ -1,5 +1,5 @@
 # Hi there, I'm Sheldon!
-**Cybersecurity Enthusiast | Penetration Testing | Infrastructure Services and Management Specialist**
+**Cybersecurity Enthusiast | Penetration Tester | Infrastructure Services and Management Specialist**
 
 🔐 Interested in Pentesting, Security operations center(SOC), Network Security and Security Auditing
 
