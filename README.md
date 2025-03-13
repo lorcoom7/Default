@@ -29,8 +29,14 @@ I am an IT Professional with over 13 years of experience in the industry, holdin
 
 ## 📜 Certifications & Achievements
 
-- <img src="https://images.credly.com/size/340x340/images/74790a75-8451-400a-8536-92d792c5184a/CompTIA_Security_2Bce.png" alt="CompTIA Security+ Logo" width="30px" style="vertical-align: middle;">  
-  [CompTIA Security+ ce Certification](https://www.credly.com/badges/8461c1d0-7db4-4047-bc36-e3ecc4bee230/linked_in_profile)
+- <a href="https://www.credly.com/badges/8461c1d0-7db4-4047-bc36-e3ecc4bee230/linked_in_profile">
+    <img src="https://images.credly.com/size/340x340/images/74790a75-8451-400a-8536-92d792c5184a/CompTIA_Security_2Bce.png" 
+         alt="CompTIA Security+ Logo" 
+         width="30px" 
+         style="vertical-align: middle;">
+    <strong>CompTIA Security+ ce Certification</strong>
+  </a>
+
 <details>
   <summary><strong>📜 Google Cybersecurity <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg" alt="Google Logo" width="60"></strong></summary>
 
