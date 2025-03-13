@@ -58,21 +58,23 @@ I am an IT Professional with over 13 years of experience in the industry, holdin
 
 <p align="left">
   <a href="https://www.youtube.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/youtube.svg" alt="YouTube" width="30px">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/youtube.svg" alt="YouTube" width="30px" height="30px">
   </a>
   &nbsp;
   <a href="https://twitter.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/twitter.svg" alt="Twitter" width="30px">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/x.svg" alt="X (Twitter)" width="30px" height="30px">
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/sheldon-brown-cybersecurity" target="_blank">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" alt="LinkedIn" width="30px">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="30px" height="30px">
   </a>
   &nbsp;
   <a href="https://www.instagram.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/instagram.svg" alt="Instagram" width="30px">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/instagram.svg" alt="Instagram" width="30px" height="30px">
   </a>
 </p>
+
+
 
 
 ---
