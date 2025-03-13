@@ -28,15 +28,23 @@ I am an IT Professional with over 13 years of experience in the industry, holdin
 ---
 
 ## 📜 Certifications & Achievements
+
 - [CompTIA Security+ 701](https://www.credly.com/badges/8461c1d0-7db4-4047-bc36-e3ecc4bee230/linked_in_profile)
-- [Google Foundations of Cybersecurity](https://coursera.org/share/65d0a2d4d790ab54becd7f17b041d947)
-- [Play it Safe: Manage Security Risks](https://www.coursera.org/account/accomplishments/verify/XG0LAN5NTOJB)
-- [Connect and Protect: Networks and Network Security](https://coursera.org/share/d20125df02038f1a2d0211e9d6e74d80)
-- [Tools of the Trade: Linux and SQL](https://coursera.org/verify/YEH68N8HDKEI)
-- [Assets, Threats, and Vulnerabilities](https://www.coursera.org/account/accomplishments/verify/33PUVFD8JLAZ)
-- [Sound the Alarm: Detection and Response](https://www.coursera.org/account/accomplishments/verify/XGMJTWMCR8AK)
-- [Automate Cybersecurity Tasks with Python](https://www.coursera.org/account/accomplishments/verify/ESC8KHPJEK02)
-- [Put it to Work: Prepare for Cybersecurity Jobs](https://www.coursera.org/account/accomplishments/verify/5P9HFXQBMVZO)
+
+<details>
+  <summary><strong>Google Cybersecurity 📜 (Click to Expand)</strong></summary>
+
+  - [Google Foundations of Cybersecurity](https://coursera.org/share/65d0a2d4d790ab54becd7f17b041d947)  
+  - [Play it Safe: Manage Security Risks](https://www.coursera.org/account/accomplishments/verify/XG0LAN5NTOJB)  
+  - [Connect and Protect: Networks and Network Security](https://coursera.org/share/d20125df02038f1a2d0211e9d6e74d80)  
+  - [Tools of the Trade: Linux and SQL](https://coursera.org/verify/YEH68N8HDKEI)  
+  - [Assets, Threats, and Vulnerabilities](https://www.coursera.org/account/accomplishments/verify/33PUVFD8JLAZ)  
+  - [Sound the Alarm: Detection and Response](https://www.coursera.org/account/accomplishments/verify/XGMJTWMCR8AK)  
+  - [Automate Cybersecurity Tasks with Python](https://www.coursera.org/account/accomplishments/verify/ESC8KHPJEK02)  
+  - [Put it to Work: Prepare for Cybersecurity Jobs](https://www.coursera.org/account/accomplishments/verify/5P9HFXQBMVZO)  
+
+</details>
+
   
 ## 📺 Popular YouTube Videos (Coming soon)
 - [How to get into Cybersecurity Starting From Zero]()
