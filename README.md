@@ -29,7 +29,7 @@ I am an IT Professional with over 13 years of experience in the industry, holdin
 
 ## 📜 Certifications & Achievements
 
-- [CompTIA Security+ 701](https://www.credly.com/badges/8461c1d0-7db4-4047-bc36-e3ecc4bee230/linked_in_profile)
+- [CompTIA Security+ ce Certification](https://www.credly.com/badges/8461c1d0-7db4-4047-bc36-e3ecc4bee230/linked_in_profile)
 
 <details>
   <summary><strong>Google Cybersecurity 📜 (Click to Expand)</strong></summary>
