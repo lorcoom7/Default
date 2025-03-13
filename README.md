@@ -66,7 +66,7 @@ I hold a **Master’s degree in Information Security & Assurance (MSISA)** and h
 ## 📺 Popular YouTube Videos (Coming soon)
 - [How to get into Cybersecurity Starting From Zero]()
 - [A Day in the Life of a Cybersecurity Analyst]()
-- [Ransomware Explained]()
+- [Ransomware Explained](https://youtu.be/lIsWpCMBxHQ)
 - [Zero Trust Architecture]()
 
 ---
