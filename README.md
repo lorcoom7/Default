@@ -1,29 +1,40 @@
-# Hi there, I'm Sheldon!
-**Cybersecurity Enthusiast | Penetration Tester | Infrastructure Services and Management Specialist**
+# 👋 Hi there, I'm Sheldon!  
+### **Cybersecurity Enthusiast | Penetration Tester | Infrastructure Security Specialist**  
 
-🔐 Interested in Pentesting, Security operations center(SOC), Network Security and Security Auditing
-
----
-
-## Professional Summary
-I am an IT Professional with over 13 years of experience in the industry, holding a Master’s degree in Information Security and Assurance (MSISA). I am passionate about technology and cybersecurity, actively working on NSA Codebreaker and Hack The Box challenges. My expertise spans network security, exploitation, and secure system design.
+🔐 Passionate about **Penetration Testing, Security Operations Center (SOC), Network Security, and Security Auditing**.  
+🚀 Actively solving **NSA Codebreaker & Hack The Box** challenges to sharpen my cybersecurity expertise.  
 
 ---
 
-## 👨‍💻 Cybersecurity Projects
-- **Kali Linux Home Labs**: Hands-on experience in setting up and managing Kali Linux for penetration testing.
-- **Active Directory Home Labs**: Configured and maintained Active Directory environments for security testing.
-- **OPNSense Firewall**: Implemented and managed OPNSense firewall for enhanced network security.
-- **[2024 MITRE eCTF](https://sb.ectf.mitre.org)**: Participating in the MITRE Embedded Capture The Flag competition.
-- **NSA Codebreaker Challenge**: Engaging in NSA-sponsored challenges to solve real-world cybersecurity problems.
-- **HackTheBox Writeups**: Documenting solutions for various HackTheBox challenges. Levels: [Tier 0],[Tier 1], [Tier 2] [Here](https://github.com/lorcoom7/CTF-Writeups)
-- **CTFs Writeups**: Documenting solutions for various Capture The Flag challenges. Check out my [CTF writeups](https://github.com/lorcoom7/CTF-Writeups).
+## **🔹 Professional Summary**  
+I am a **seasoned IT professional** with **13+ years of experience** in **Cybersecurity, Infrastructure Security, and Network Administration**.  
+I hold a **Master’s degree in Information Security & Assurance (MSISA)** and have a strong background in **secure system design, exploitation techniques, and threat mitigation strategies**.  
+
+💡 **Key Strengths:**  
+✅ **Penetration Testing** – Offensive security & vulnerability assessments  
+✅ **SOC Operations** – Threat detection, incident response & security monitoring  
+✅ **Network Security** – Secure architecture, firewall management, IDS/IPS  
+✅ **Security Auditing** – Compliance, risk assessments, and mitigation strategies  
 
 ---
 
-## 🎓 Education
-- [Master of Science in Information Security and Assurance](https://github.com/lorcoom7/MSISA/blob/main/Masters%20Degree.pdf) - Strayer University
-- [Bachelor of Science in Computer Science](https://github.com/lorcoom7/Computer-Science/blob/main/Bachelor%20Degree_1.pdf) - St. Johns University
+## **💻 Cybersecurity Projects & Contributions**  
+### **🔹 Home Labs & Practical Security Implementations**  
+- **Kali Linux Pentesting Lab** – Hands-on penetration testing with industry-standard tools  
+- **Active Directory Security Lab** – Simulating enterprise environments for security testing  
+- **OPNSense Firewall Implementation** – Enhancing network security using open-source firewall solutions  
+
+### **🔹 Capture The Flag (CTF) & Challenge Writeups**  
+- **[2024 MITRE eCTF](https://sb.ectf.mitre.org/)** – Participating in MITRE’s Embedded Capture The Flag challenge  
+- **NSA Codebreaker Challenge** – Engaging in NSA-sponsored real-world cybersecurity scenarios  
+- **[Hack The Box Writeups](https://github.com/lorcoom7/CTF-Writeups)** – Documenting solutions for Hack The Box challenges  
+- **[CTF Writeups](https://github.com/lorcoom7/CTF-Writeups)** – Sharing in-depth writeups on Capture The Flag competitions  
+
+---
+
+## **🎓 Education & Certifications**  
+🎓 **[Master of Science in Information Security & Assurance](https://github.com/lorcoom7/MSISA/blob/main/Masters%20Degree.pdf)** – Strayer University  
+🎓 **[Bachelor of Science in Computer Science](https://github.com/lorcoom7/Computer-Science/blob/main/Bachelor%20Degree_1.pdf)** – St. Johns University  
 
 ---
 
