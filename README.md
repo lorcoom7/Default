@@ -55,10 +55,25 @@ I am an IT Professional with over 13 years of experience in the industry, holdin
 ---
 
 ## 🤳 Connect with me:
-[![YouTube](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg)](https://www.youtube.com/)
-[![Twitter](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg)](https://twitter.com/)
-[![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg)](https://www.linkedin.com/in/sheldon-brown-cybersecurity)
-[![Instagram](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg)](https://www.instagram.com/)
+
+<p align="left">
+  <a href="https://www.youtube.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/youtube.svg" alt="YouTube" width="30px">
+  </a>
+  &nbsp;
+  <a href="https://twitter.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/twitter.svg" alt="Twitter" width="30px">
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/sheldon-brown-cybersecurity" target="_blank">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" alt="LinkedIn" width="30px">
+  </a>
+  &nbsp;
+  <a href="https://www.instagram.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/instagram.svg" alt="Instagram" width="30px">
+  </a>
+</p>
+
 
 ---
 
