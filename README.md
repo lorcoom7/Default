@@ -20,7 +20,7 @@ I hold a **Master’s degree in Information Security & Assurance (MSISA)** and h
 
 ## **💻 Cybersecurity Projects & Contributions**  
 ### **🔹 Home Labs & Practical Security Implementations**  
-- **Kali Linux Pentesting Lab** – Hands-on penetration testing with industry-standard tools  
+- **[Kali Linux Pentesting Lab](README.md)** – Hands-on penetration testing with industry-standard tools  
 - **Active Directory Security Lab** – Simulating enterprise environments for security testing  
 - **OPNSense Firewall Implementation** – Enhancing network security using open-source firewall solutions  
 
