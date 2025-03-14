@@ -22,7 +22,7 @@ I hold a **Master’s degree in Information Security & Assurance (MSISA)** and h
 ### **🔹 Home Labs & Practical Security Implementations**  
 - **[Kali Linux Pentesting Lab](https://github.com/lorcoom7/Kali-Pentesting-Lab)** – Hands-on penetration testing with industry-standard tools  
 - **Active Directory Security Lab** – Simulating enterprise environments for security testing  
-- **OPNSense Firewall Implementation** – Enhancing network security using open-source firewall solutions  
+- **[OPNSense Firewall Implementation](https://github.com/lorcoom7/OPNSense-Firewall-Implementation/tree/main)** – Enhancing network security using open-source firewall solutions  
 
 ### **🔹 Capture The Flag (CTF) & Challenge Writeups**  
 - **[2024 MITRE eCTF](https://sb.ectf.mitre.org/)** – Participating in MITRE’s Embedded Capture The Flag challenge  
