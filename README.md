@@ -50,8 +50,7 @@ I hold a **Master’s degree in Information Security & Assurance (MSISA)** and h
 
 <details>
   <summary><strong>
-   <a href="https://www.coursera.org/account/accomplishments/specialization/JPCB46C33CJK">Google Cybersecurity Certificate</a> ⏵ Click to expand 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg" alt="Google Logo" width="60">
+  <img src="https://ssl.gstatic.com/images/branding/product/1x/gsa_512dp.png" alt="Google G Icon" width="20"> <a href="https://www.coursera.org/account/accomplishments/specialization/JPCB46C33CJK">Google Cybersecurity</a> ||⏵ Click to expand ||
   </strong></summary>
 
   - [Google Foundations of Cybersecurity](https://coursera.org/share/65d0a2d4d790ab54becd7f17b041d947)
@@ -63,6 +62,10 @@ I hold a **Master’s degree in Information Security & Assurance (MSISA)** and h
   - [Automate Cybersecurity Tasks with Python](https://www.coursera.org/account/accomplishments/verify/ESC8KHPJEK02)
   - [Put it to Work: Prepare for Cybersecurity Jobs](https://www.coursera.org/account/accomplishments/verify/5P9HFXQBMVZO)
 </details>
+
+
+
+
 
 
 
