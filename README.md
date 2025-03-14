@@ -48,8 +48,7 @@ I hold a **Master’s degree in Information Security & Assurance (MSISA)** and h
     <strong>CompTIA Security+ Certified</strong>
   </a>
 
-<details>
-  <summary><strong>📜 Google Cybersecurity <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg" alt="Google Logo" width="60"></strong></summary>
+<details> <summary><strong>📜 <a href="https://www.coursera.org/account/accomplishments/specialization/JPCB46C33CJK">Google Cybersecurity</a> <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg" alt="Google Logo" width="60"></strong></summary>
 
   - [Google Foundations of Cybersecurity](https://coursera.org/share/65d0a2d4d790ab54becd7f17b041d947)
   - [Play it Safe: Manage Security Risks](https://www.coursera.org/account/accomplishments/verify/XG0LAN5NTOJB)
