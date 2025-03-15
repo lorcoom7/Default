@@ -26,7 +26,7 @@ I hold a **Master’s degree in Information Security & Assurance (MSISA)** and h
 
 ### **🔹 Capture The Flag (CTF) & Challenge Writeups**  
 - **[2024 MITRE eCTF](https://sb.ectf.mitre.org/)** – Participating in MITRE’s Embedded Capture The Flag challenge  
-- **[NSA Codebreaker Challenge](https://nsa-codebreaker.org/)** – Engaging in NSA-sponsored real-world cybersecurity scenarios  
+- **[NSA Codebreaker Challenge](https://nsa-codebreaker.org/home)** – Engaging in NSA-sponsored real-world cybersecurity scenarios  
 - **[Hack The Box Writeups](https://github.com/lorcoom7/CTF-Writeups)** – Documenting solutions for Hack The Box challenges  
 - **[CTF Writeups](https://github.com/lorcoom7/CTF-Writeups)** – Sharing in-depth writeups on Capture The Flag competitions  
 
