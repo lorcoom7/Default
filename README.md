@@ -41,7 +41,7 @@ I hold a **Master’s degree in Information Security & Assurance (MSISA)** and h
 ## 📜 Certifications & Achievements
 
  <a href="/linked_in_profile">
-    <img src="https://images.credly.com/size/340x340/images/74790a75-8451-400a-8536-92d792c5184a/CompTIA_Security_2Bce.png" 
+    <img src="[https://images.credly.com/size/340x340/images/74790a75-8451-400a-8536-92d792c5184a](https://www.credly.com/users/sheldon-brown.11bca57d)/CompTIA_Security_2Bce.png" 
          alt="CompTIA Security+ Logo" 
          width="30px" 
          style="vertical-align: middle;">
