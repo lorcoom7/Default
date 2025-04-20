@@ -39,13 +39,13 @@ I hold a **Master’s degree in Information Security & Assurance (MSISA)** and h
 ---
 
 ## 📜 Certifications & Achievements
-
- <a href="https://www.credly.com/badges/8c7c1276-edc0-45c4-8477-584b66ea8649/public_url">
-    <img src="https://images.credly.com/size/340x340/images/74790a75-8451-400a-8536-92d792c5184a/CompTIA_Security_2Bce.png" 
-         alt="CompTIA Security+ Logo" 
+<summary><strong>
+ <a href="https://www.credly.com/badges/8c7c1276-edc0-45c4-8477-584b66ea8649/public_url"> 
+  <img src="https://images.credly.com/size/340x340/images/74790a75-8451-400a-8536-92d792c5184a/CompTIA_Security_2Bce.png"     
+   alt="CompTIA Security+ ce Certification" 
          width="30" 
          style="vertical-align: middle;">
-    <strong>CompTIA Security+ Certified</strong>
+    <span></span>
 </a>
 
 
