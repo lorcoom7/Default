@@ -52,7 +52,7 @@ I hold a **Master’s degree in Information Security & Assurance (MSISA)** and h
 
 <details>
   <summary><strong>
-  <img src="https://ssl.gstatic.com/images/branding/product/1x/gsa_512dp.png" alt="Google G Icon" width="30"> <a href="https://www.coursera.org/account/accomplishments/specialization/JPCB46C33CJK">Google Cybersecurity Certificate</a> ||⏵ Click to expand ||
+  <img src="https://ssl.gstatic.com/images/branding/product/1x/gsa_512dp.png" alt="Google G Icon" width="30"> <a href="https://www.coursera.org/account/accomplishments/specialization/JPCB46C33CJK">Google Cybersecurity Certificate</a> ||⏵ Click here to expand ||
   </strong></summary>
 
   - [Google Foundations of Cybersecurity](https://coursera.org/share/65d0a2d4d790ab54becd7f17b041d947)
