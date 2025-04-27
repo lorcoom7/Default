@@ -25,7 +25,6 @@ I hold a **Master’s degree in Information Security & Assurance (MSISA)** and h
 - **[OPNSense Firewall Implementation](https://github.com/lorcoom7/OPNSense-Firewall-Implementation/tree/main)** – Enhancing network security using open-source firewall solutions  
 
 ### **🔹 Capture The Flag (CTF) & Challenge Writeups**  
-- **[2024 MITRE eCTF](https://sb.ectf.mitre.org/)** – Participating in MITRE’s Embedded Capture The Flag challenge  
 - **[NSA Codebreaker Challenge](https://github.com/lorcoom7/CTF-Writeups)** – Engaging in NSA-sponsored real-world cybersecurity scenarios  
 - **[Hack The Box Writeups](https://github.com/lorcoom7/CTF-Writeups)** – Documenting solutions for Hack The Box challenges  
 - **[CTF Writeups](https://github.com/lorcoom7/CTF-Writeups)** – Sharing in-depth writeups on Capture The Flag competitions  
