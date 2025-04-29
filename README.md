@@ -32,26 +32,22 @@ I hold a **Master’s degree in Information Security & Assurance (MSISA)** and h
 ---
 
 ## **🎓 Education**  
-🎓 **[Master of Science in Information Security & Assurance](https://github.com/lorcoom7/MSISA/blob/main/Masters%20Degree.pdf)** – Strayer University  
-🎓 **[Bachelor of Science in Computer Science](https://github.com/lorcoom7/Computer-Science/blob/main/Bachelor%20Degree_1.pdf)** – St. Johns University  
+🎓 **Master of Science in Information Security & Assurance** – Strayer University  
+🎓 **Bachelor of Science in Computer Science** – St. Johns University  
 
 ---
 
 ## 📜 Certifications & Achievements
-<summary><strong>
- <a href="https://www.credly.com/badges/8c7c1276-edc0-45c4-8477-584b66ea8649/public_url"> 
-  <img src="https://images.credly.com/size/340x340/images/74790a75-8451-400a-8536-92d792c5184a/CompTIA_Security_2Bce.png"     
-   alt="CompTIA Security+ ce Certification" 
-         width="30" 
-         style="vertical-align: middle;">
-    <span></span>
-</a>
+ - **[CompTIA Security+ Certified](https://www.credly.com/badges/8c7c1276-edc0-45c4-8477-584b66ea8649/public_url)**
+
+
+
 
 
 
 <details>
   <summary><strong>
-  <img src="https://ssl.gstatic.com/images/branding/product/1x/gsa_512dp.png" alt="Google G Icon" width="30"> <a href="https://www.coursera.org/account/accomplishments/specialization/JPCB46C33CJK">Google Cybersecurity Certificate</a> ||⏵ Click here to expand and see full list||
+  <a href="https://www.coursera.org/account/accomplishments/specialization/JPCB46C33CJK">Google Cybersecurity Certificate</a> ||⏵ Click here to expand and see full list||
   </strong></summary>
 
   - [Google Foundations of Cybersecurity](https://coursera.org/share/65d0a2d4d790ab54becd7f17b041d947)
