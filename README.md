@@ -39,10 +39,7 @@ I hold a **Master’s degree in Information Security & Assurance (MSISA)** and h
 
 ## 📜 Certifications & Achievements
  - **[CompTIA Security+ Certified](https://www.credly.com/badges/8c7c1276-edc0-45c4-8477-584b66ea8649/public_url)**
-
-
-
-
+ - **[Ethical Hacking Fundamentals](https://coursera.org/share/872531fc16def6379041a40ba89d0815)**
 
 
 <details>
